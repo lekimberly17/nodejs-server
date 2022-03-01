@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Our first Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekimberly17/nodejs-server.git"
+  },
+  "author": "Kim Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekimberly17/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/lekimberly17/nodejs-server#readme"
+}
